@@ -4,7 +4,8 @@ function App() {
   return (
     <>
       <div>
-        <h1>Hola Aña</h1>
+        <h1>Hola Mamita como esta hoy</h1>
+        <input placeholder={"Como te fue hoy mamita?"}/>
       </div>
     </>
   )
